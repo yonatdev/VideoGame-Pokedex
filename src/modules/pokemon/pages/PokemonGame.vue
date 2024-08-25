@@ -7,7 +7,7 @@
         <div class="flex  flex-col  lg:w-[800px] w-full">
             <div class="flex justify-between px-8">
                 <div class="flex flex-col items-center justify-center gap-2">
-                    <h3 class="text-2xl text-red-400 font-bold">Puntos optenidos</h3>
+                    <h3 class="text-2xl text-gray-200 font-bold">Puntos optenidos</h3>
                     <p class="text-3xl text-blue-300 font-bold">{{ counter }}</p>
                 </div>
                 <div class=" flex gap-2">
